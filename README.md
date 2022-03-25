@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nchallak 
-- 👀 I’m interested in Computational Photography, Machine Learning
+- I’m interested in Computational Photography, Machine Learning
 - 🌱 I’m currently learning Rust language, Machine Learning Systems Design
-- 💞️ I’m looking to collaborate on AI/ML Projects relating to 
-- 📫 How to reach me nchallak <at> live ◦ com
+- I’m looking to collaborate on AI/ML Projects relating to 
+- How to reach me? nchallak <at> live ◦ com
 
 <!---
 nchallak/nchallak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
