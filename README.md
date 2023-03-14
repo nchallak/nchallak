@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nchallak 
 - I’m interested in Computational Photography & Machine Learning
 - 🌱 I’m currently learning Rust language, Machine Learning Systems Design
-- I’m looking to collaborate on AI/ML Projects
 - How to reach me? nchallak <at> live ◦ com
 
 <!---
